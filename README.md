@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Harshit Garg 👋</h1>
-<h3 align="center">Software Development Engineer | AI Researcher | Android Developer</h3>
+<h3 align="center">Software Development Engineer | AI Researcher</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/harshit-garg0101" target="_blank">
@@ -24,7 +24,7 @@ A passionate Software Engineer bridging mobile architecture with advanced AI, sp
 * 🧠 **I focus on** Core AI Concepts (Deep Learning, NLP, LLMs) and Android Architecture (Kotlin, Jetpack Compose).
 * 🎓 **Education:** Pursuing M.Tech in Artificial Intelligence @ Delhi Technological University (DTU) | B.Tech @ Thapar Institute.
 * 📫 **How to reach me:** Shoot me an email at **[harshit.career6@gmail.com](mailto:harshit.career6@gmail.com)**
-* ⚡ **Fun fact:** When I'm not training machine learning models or debugging Android apps, you can usually find me cruising on my Royal Enfield listening to classic Kishore Kumar hits! 🏍️🎶
+* ⚡ **Fun fact:** When I'm not training ML models or debugging, you can usually find me cruising on my **Royal Enfield**
 
 ---
 
