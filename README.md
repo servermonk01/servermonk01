@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Harshit Garg 👋</h1>
 <h3 align="center">Software Development Engineer | AI Researcher</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=servermonk01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <p align="center">
   <a href="https://linkedin.com/in/harshit-garg0101" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -79,4 +81,7 @@ A passionate Software Engineer bridging mobile architecture with advanced AI, sp
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=servermonk01&show_icons=true&theme=radical&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="servermonk01's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=servermonk01&theme=radical&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="servermonk01's GitHub streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=servermonk01&layout=compact&theme=radical&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" width="60%" />
 </p>
