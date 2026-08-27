@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Harshit+Garg+👋;Software+Development+Engineer;AI+Researcher+%26+Systems+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Hi+there,+I'm+Harshit+Garg+👋;Software+Development+Engineer;AI+Researcher+%26+Systems+Architect" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/harshit-garg0101" target="_blank">
