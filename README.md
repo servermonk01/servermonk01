@@ -28,11 +28,12 @@
 
 A passionate Software Engineer bridging mobile architecture with advanced AI, specializing in scalable applications, complex embedded hardware systems, and Machine Learning pipelines.
 
-* 🔭 I’m currently working as an **SDE Intern** at **STMicroelectronics**, building production-ready OTA Machine Learning pipelines and AR solutions[cite: 2].
-* 🧠 **I focus on** Core AI Concepts (Deep Learning, NLP, LLMs) and Android Architecture (Kotlin, Jetpack Compose)[cite: 2].
-* 🎓 **Education:** Pursuing M.Tech in Artificial Intelligence @ Delhi Technological University (DTU) | B.Tech @ Thapar Institute[cite: 2].
-* 📫 **How to reach me:** Shoot me an email at **[harshit.career6@gmail.com](mailto:harshit.career6@gmail.com)**[cite: 2]
-* ⚡ **Fun fact:** When I'm not training ML models or debugging, you can usually find me cruising on my **Royal Enfield**
+* 🔭 **Experience:** Worked for 1 year as Software Developer Intern at **STMicroelectronics**, where I engineered 2 production-ready Android apps deployed on the Google Play Store, integrating **Robotics** and **Augmented Reality (AR)**. (2025-2026)
+* 🏆 **Recognition & Impact:** Awarded directly by the **Managing Director of STMicroelectronics**, with flagship applications successfully showcased globally at **CES 2026, USA**.
+* 🧠 **I focus on:** Core AI Concepts (Deep Learning, NLP, LLMs) and Android Architecture (Kotlin, Jetpack Compose).
+* 🎓 **Education:** M.Tech in Artificial Intelligence from Delhi Technological University (Formerly DCE) (July 2026) | B.Tech from Thapar Institute of Engineering and Technology (July 2023).
+* 📫 **How to reach me:** Shoot me an email at **[harshit.career6@gmail.com](mailto:harshit.career6@gmail.com)**
+* ⚡ **Fun fact:** When I'm not training ML models or debugging, you can usually find me cruising on my **Royal Enfield**.
 
 ---
 
@@ -55,14 +56,14 @@ A passionate Software Engineer bridging mobile architecture with advanced AI, sp
 
 ### 📚 Research & Publications (IEEE)
 
-* 📄 **[Optimizing Visibility in Hazed Images: A Hybrid Approach with Dark Channel Prior, Guided Filtering, and Wavelets](https://doi.org/10.1109/ICCSAI64074.2025.11063978)** - *IEEE, 2025*[cite: 2]
-* 📄 **[Integrated Multi-Domain Dehazing Using Wavelet-Guided Contrast Enhancement and Adaptive Filtering for High-Visibility Imaging](https://doi.org/10.1109/IC2SDT68218.2025.11383579)** - *IEEE, 2026*[cite: 2]
+* 📄 **[Optimizing Visibility in Hazed Images: A Hybrid Approach with Dark Channel Prior, Guided Filtering, and Wavelets](https://doi.org/10.1109/ICCSAI64074.2025.11063978)** - *IEEE, 2025*
+* 📄 **[Integrated Multi-Domain Dehazing Using Wavelet-Guided Contrast Enhancement and Adaptive Filtering for High-Visibility Imaging](https://doi.org/10.1109/IC2SDT68218.2025.11383579)** - *IEEE, 2026*
 
 ---
 
 ### ⚙️ Technical Skills
 
-**Programming Languages:** Java, Python, C, C++, and SQL[cite: 2]
+**Programming Languages:** Java, Python, C, C++, and SQL
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -70,7 +71,7 @@ A passionate Software Engineer bridging mobile architecture with advanced AI, sp
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-**AI & Machine Learning (Including GenAI & Agents):** Deep Learning, Natural Language Processing (NLP), Artificial Intelligence, Machine Learning, Pattern Recognition, Neural Networks, Large Language Models (LLMs), LangGraph, LangChain, and RAG Architectures[cite: 2]
+**AI & Machine Learning (Including GenAI & Agents):** Deep Learning, Natural Language Processing (NLP), Artificial Intelligence, Machine Learning, Pattern Recognition, Neural Networks, Large Language Models (LLMs), LangGraph, LangChain, and RAG Architectures
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
@@ -79,16 +80,16 @@ A passionate Software Engineer bridging mobile architecture with advanced AI, sp
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
-**Android Development:** Android SDK, Kotlin, Jetpack Compose, and Android Studio[cite: 2]
+**Android Development:** Android SDK, Kotlin, Jetpack Compose, and Android Studio
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-**Computer Science Fundamentals:** Data Structures and Algorithms, Operating Systems, Database Management Systems, Computer Networks and Big Data Analytics[cite: 2]
+**Computer Science Fundamentals:** Data Structures and Algorithms, Operating Systems, Database Management Systems, Computer Networks and Big Data Analytics
 
-**Tools & Version Control:** FastAPI, Docker, SQL, Power BI, Tableau, Excel, PowerPoint, MySQL, Git, GitHub, VS Code, and Microsoft Office Suite[cite: 2]
+**Tools & Version Control:** FastAPI, Docker, SQL, Power BI, Tableau, Excel, PowerPoint, MySQL, Git, GitHub, VS Code, and Microsoft Office Suite
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -99,7 +100,7 @@ A passionate Software Engineer bridging mobile architecture with advanced AI, sp
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-**Soft Skills:** Excellent Communication, People Management, Teamwork, Quick Decision Making, Learning Agility, Adaptability[cite: 2]
+**Soft Skills:** Excellent Communication, People Management, Teamwork, Quick Decision Making, Learning Agility, Adaptability
 
 ---
 
