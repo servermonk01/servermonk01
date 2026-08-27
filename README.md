@@ -1,45 +1,68 @@
-<h1 align="center">Hi there, I'm Harshit Garg 👋</h1>
-<h3 align="center">Software Development Engineer | AI Researcher</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=servermonk01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/harshit-garg0101" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:harshit.career6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" alt="Coding GIF" width="400" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Harshit+Garg+👋;Software+Development+Engineer;AI+Researcher+%26+Systems+Architect" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://linkedin.com/in/harshit-garg0101" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:harshit.career6@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/servermonk01" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=servermonk01&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
+<div align="left">
+  <img align="right" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=350&h=262&auto=format" alt="Coding GIF" width="320" style="border-radius: 12px; margin-left: 20px;" />
+</div>
+
 A passionate Software Engineer bridging mobile architecture with advanced AI, specializing in scalable applications, complex embedded hardware systems, and Machine Learning pipelines.
 
-* 🔭 I’m currently working as an **SDE Intern** at **STMicroelectronics**, building production-ready OTA Machine Learning pipelines and AR solutions.
-* 🧠 **I focus on** Core AI Concepts (Deep Learning, NLP, LLMs) and Android Architecture (Kotlin, Jetpack Compose).
-* 🎓 **Education:** Pursuing M.Tech in Artificial Intelligence @ Delhi Technological University (DTU) | B.Tech @ Thapar Institute.
-* 📫 **How to reach me:** Shoot me an email at **[harshit.career6@gmail.com](mailto:harshit.career6@gmail.com)**
+* 🔭 I’m currently working as an **SDE Intern** at **STMicroelectronics**, building production-ready OTA Machine Learning pipelines and AR solutions[cite: 2].
+* 🧠 **I focus on** Core AI Concepts (Deep Learning, NLP, LLMs) and Android Architecture (Kotlin, Jetpack Compose)[cite: 2].
+* 🎓 **Education:** Pursuing M.Tech in Artificial Intelligence @ Delhi Technological University (DTU) | B.Tech @ Thapar Institute[cite: 2].
+* 📫 **How to reach me:** Shoot me an email at **[harshit.career6@gmail.com](mailto:harshit.career6@gmail.com)**[cite: 2]
 * ⚡ **Fun fact:** When I'm not training ML models or debugging, you can usually find me cruising on my **Royal Enfield**
+
+---
+
+### 📌 Featured Flagship Project
+
+<table width="100%">
+  <tr>
+    <td width="70%">
+      <h3><a href="https://github.com/servermonk01/Agentic-AIOps-Incident-Copilot">⚡ Agentic AIOps Incident Command Center</a></h3>
+      <p>An autonomous Site Reliability Engineering (SRE) assistant that ingests server log alerts, performs real-time telemetry matching via web agents, and coordinates a LangGraph multi-agent loop to synthesize root cause analyses and remediation commands.</p>
+      <p><b>Tech Stack:</b> FastAPI, LangGraph, Groq (Qwen 3.8-27B), Pydantic v2, Streamlit, Docker</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/Status-Production_Ready-00C853?style=for-the-badge" alt="Status" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📚 Research & Publications (IEEE)
 
-* 📄 **[Optimizing Visibility in Hazed Images: A Hybrid Approach with Dark Channel Prior, Guided Filtering, and Wavelets](https://doi.org/10.1109/ICCSAI64074.2025.11063978)** - *IEEE, 2025*
-* 📄 **[Integrated Multi-Domain Dehazing Using Wavelet-Guided Contrast Enhancement and Adaptive Filtering for High-Visibility Imaging](https://doi.org/10.1109/IC2SDT68218.2025.11383579)** - *IEEE, 2026*
+* 📄 **[Optimizing Visibility in Hazed Images: A Hybrid Approach with Dark Channel Prior, Guided Filtering, and Wavelets](https://doi.org/10.1109/ICCSAI64074.2025.11063978)** - *IEEE, 2025*[cite: 2]
+* 📄 **[Integrated Multi-Domain Dehazing Using Wavelet-Guided Contrast Enhancement and Adaptive Filtering for High-Visibility Imaging](https://doi.org/10.1109/IC2SDT68218.2025.11383579)** - *IEEE, 2026*[cite: 2]
 
 ---
 
 ### ⚙️ Technical Skills
 
-**Programming Languages:** Java, Python, C, and C++
+**Programming Languages:** Java, Python, C, C++, and SQL[cite: 2]
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -47,7 +70,7 @@ A passionate Software Engineer bridging mobile architecture with advanced AI, sp
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-**Core AI Concepts:** Deep Learning, Natural Language Processing (NLP), Artificial Intelligence, Machine Learning, Pattern Recognition, Neural Networks and Large Language Models (LLMs)
+**AI & Machine Learning (Including GenAI & Agents):** Deep Learning, Natural Language Processing (NLP), Artificial Intelligence, Machine Learning, Pattern Recognition, Neural Networks, Large Language Models (LLMs), LangGraph, LangChain, and RAG Architectures[cite: 2]
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
@@ -56,23 +79,27 @@ A passionate Software Engineer bridging mobile architecture with advanced AI, sp
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
-**Android Development:** Android SDK, Kotlin, Jetpack Compose, and Android Studio
+**Android Development:** Android SDK, Kotlin, Jetpack Compose, and Android Studio[cite: 2]
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-**Computer Science Fundamentals:** Data Structures and Algorithms, Operating Systems, Database Management Systems, Computer Networks and Big Data Analytics
+**Computer Science Fundamentals:** Data Structures and Algorithms, Operating Systems, Database Management Systems, Computer Networks and Big Data Analytics[cite: 2]
 
-**Tools & Version Control:** SQL, Power BI, Tableau, Excel, PowerPoint, MySQL, Git, VS Code, and Microsoft Office
+**Tools & Version Control:** FastAPI, Docker, SQL, Power BI, Tableau, Excel, PowerPoint, MySQL, Git, GitHub, VS Code, and Microsoft Office Suite[cite: 2]
 <p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
+
+**Soft Skills:** Excellent Communication, People Management, Teamwork, Quick Decision Making, Learning Agility, Adaptability[cite: 2]
 
 ---
 
